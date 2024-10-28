@@ -19,8 +19,4 @@ article {
 main {
     margin: 10px;
 }
-@media screen and (min-width: 1020px) {
-    main {
-        margin: 0 15%;
-    }
-}
+

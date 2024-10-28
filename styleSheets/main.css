@@ -30,18 +30,3 @@ section a {
     margin: 5px;
     background-color: black;
 }
-@media screen and (min-width: 1020px){
-    body {
-        font-size: 100%;
-    }
-    main {
-        margin: 0 10%;
-    }
-    header {
-        background-image: url(../images/backgrounds/circuit.png);
-        padding-top: 1px;
-    }
-    main article {
-        font-size: 100%;
-    }
-}
