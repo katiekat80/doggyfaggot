@@ -1,0 +1,12 @@
+h3 {
+    border: 2px solid black;
+}
+article {
+    background-color: white;
+    display: block;
+    border: 2px solid;
+    clear: both;
+}
+main {
+    display: flex;
+}

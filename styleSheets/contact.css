@@ -1,0 +1,20 @@
+a img {
+    height: 64px;
+    padding: 0 10px;
+}
+main{
+    background-color: white;
+    border: 2px solid #000000;
+    text-align: center;
+    overflow: auto;
+}
+p:hover {
+    background-color: black;
+
+}
+main a {
+    float: left;
+    padding: 8px;
+    margin: 16px;
+}
+
