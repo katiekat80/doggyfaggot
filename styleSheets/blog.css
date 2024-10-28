@@ -1,0 +1,26 @@
+main a {
+    background-color: white;
+    color: red;
+    padding: 5px;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 10px;
+}
+p {
+    margin: 0px;
+}
+article {
+    background-color: white;
+    text-shadow: none;
+    color: black;
+    padding: 5px;
+    margin: 10px 0;
+}
+main {
+    margin: 10px;
+}
+@media screen and (min-width: 1020px) {
+    main {
+        margin: 0 15%;
+    }
+}

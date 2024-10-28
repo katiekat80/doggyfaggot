@@ -1,28 +1,18 @@
 article {
-    clear: both;
-    background-color: blanchedalmond;
+    background-color: white;
     color: black;
-    float: left;
-    border: 5px solid red;
-    text-align: left;
-    margin-bottom: 15px;
+    text-shadow: none;
 }
-h2, h3, p {
-    margin: 0;
+main {
+    margin: 10px;
 }
-ul {
-    display: table;
-    margin: 0 auto;
-    text-align: left;
-}
-h3 {
-    font-size: 12pt;
-}
-img {
-    width: 50%;
-    float: left;
-    padding: 0 10px 10px 0;
-}
-footer {
-    clear: both;
+@media screen and (min-width: 1020px) {
+    main {
+        font-size: 100%;
+        margin: 0 10%;
+    }
+    header {
+        background-image: url(../images/backgrounds/circuit.png);
+        padding-top: 1px;
+    }
 }
