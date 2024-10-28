@@ -1,8 +1,9 @@
 main {
     background-color: black;
-    margin: 0 10px;
+    margin: 0 15%;
     border: 4px solid red;
+
 }
 main img {
-    width: 300px;
+    width: 150px;
 }
