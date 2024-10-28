@@ -10,7 +10,7 @@ img {
     width: 95%;
 }
 main article {
-    font-size: 130%;
+    font-size: 100%;
 }
 a {
     color:white;
@@ -29,4 +29,8 @@ section {
 section a {
     margin: 5px;
     background-color: black;
+}
+header {
+    background-image: url(../images/backgrounds/circuit.png);
+    padding-top: 1px;
 }

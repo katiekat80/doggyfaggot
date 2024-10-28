@@ -4,5 +4,10 @@ article {
     text-shadow: none;
 }
 main {
-    margin: 10px;
+    font-size: 100%;
+    margin: 0 10%;
+}
+header {
+    background-image: url(../images/backgrounds/circuit.png);
+    padding-top: 1px;
 }
