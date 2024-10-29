@@ -1,13 +1,5 @@
-main a {
-    background-color: white;
-    color: red;
-    padding: 5px;
-    text-decoration: none;
-    text-shadow: none;
-    border-radius: 10px;
-}
 p {
-    margin: 0px;
+    margin: 0;
 }
 article {
     background-color: white;
@@ -15,6 +7,7 @@ article {
     color: black;
     padding: 5px;
     margin: 10px 0;
+    border: 2px solid darkgreen;
 }
 main {
     margin: 0 15%;
