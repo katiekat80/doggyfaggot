@@ -29,12 +29,17 @@ main a {
 main a img {
     width: 150px;
 }
+main img {
+    width: 48%;
+    padding-top: 2%;
+}
 .article {
     background-color: antiquewhite;
     margin: 15px;
 }
 footer {
     color: rgb(255, 255, 255);
+    bottom: 0;
 }
 .boxLink {
     background-color: black;
@@ -45,7 +50,6 @@ footer {
 }
 .boxLink img {
     width: 200px;
-
 }
 .video {
     display: contents;
@@ -55,7 +59,7 @@ iframe {
     aspect-ratio: 4/3;
     width: 75%;
 }
-main img {
+.homeImage {
     width: 30%;
 }
 
