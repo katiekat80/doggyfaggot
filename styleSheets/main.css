@@ -19,7 +19,7 @@ header {
 header a {
     color:rgb(255, 255, 0);
 }
-main {
+.main {
     background-image: url(../images/backgrounds/article.png);
     margin: 0 10%;
 }

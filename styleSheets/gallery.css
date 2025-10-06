@@ -1,0 +1,12 @@
+article {
+    background-image: url(../images/backgrounds/article.png);
+    padding: 2px;
+    margin: 10px 10%;
+}
+main article img {
+    width: 90%;
+}
+main a {
+    padding: 5px;
+    background-color: antiquewhite;
+}
