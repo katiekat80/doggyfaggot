@@ -54,7 +54,6 @@ footer {
 }
 .video {
     display: contents;
-    padding-top: 10%;
 }
 iframe {
     aspect-ratio: 4/3;
