@@ -23,6 +23,8 @@ header a {
 .main {
     background-image: url(../images/backgrounds/article.png);
     margin: 0 10%;
+    max-width: 900px;
+    margin: auto;
 }
 main a {
     color: rgb(140, 0, 255);
@@ -48,6 +50,17 @@ footer {
     padding: 10px 10px 0 ;
     height: 50px;
     margin: 10px;
+    font-size: medium;
+}
+.button {
+    background-color: black;
+    display: inline-table;
+    padding: 10px 10px 0 ;
+    margin: 10px;
+    font-size: medium;
+}
+.button img {
+    width: 88px;
 }
 .boxLink img {
     width: 200px;
@@ -57,7 +70,7 @@ footer {
 }
 iframe {
     aspect-ratio: 4/3;
-    width: 75%;
+    width: 90%;
 }
 .homeImage {
     width: 30%;

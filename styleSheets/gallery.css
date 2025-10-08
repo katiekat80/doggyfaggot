@@ -1,7 +1,8 @@
 article {
     background-image: url(../images/backgrounds/article.png);
     padding: 2px;
-    margin: 10px 10%;
+    margin: auto;
+    max-width: 900px;
 }
 main article img {
     width: 90%;
