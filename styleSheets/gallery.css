@@ -1,7 +1,7 @@
 article {
     background-image: url(../images/backgrounds/article.png);
     padding: 2px;
-    margin: auto;
+    margin: 10px auto;
     max-width: 900px;
 }
 main article img {
