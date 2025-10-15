@@ -78,6 +78,7 @@ iframe {
 }
 main p {
     background-color: antiquewhite;
+    margin: auto;
 }
 .blinkie {
     width: 300px;
