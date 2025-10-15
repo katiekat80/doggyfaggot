@@ -2,6 +2,7 @@
     font-family: Chicago;
     src: url('../resources/ChicagoFLF.ttf');
 }
+
 html {
     font-family: Chicago;
     color: rgb(0, 0, 0);
@@ -32,12 +33,12 @@ main a {
 main a img {
     width: 300px;
 }
-main img {
+.mainImg {
     width: 90%;
     padding-top: 2%;
 }
 .article {
-    background-color: antiquewhite;
+   
     margin: 15px;
 }
 footer {
@@ -75,4 +76,19 @@ iframe {
 .homeImage {
     width: 30%;
 }
-
+main p {
+    background-color: antiquewhite;
+}
+.blinkie {
+    width: 300px;
+}
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
+}
+.eightyEightButton {
+    height: 31px;
+    scale: 100px;
+}
