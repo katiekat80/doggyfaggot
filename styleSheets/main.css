@@ -83,12 +83,10 @@ main p {
 .blinkie {
     width: 300px;
 }
-img {
+.eightyEightButton {
+    height: 31px;
     image-rendering: auto;
     image-rendering: crisp-edges;
     image-rendering: pixelated;
     image-rendering: -webkit-optimize-contrast;
-}
-.eightyEightButton {
-    height: 31px;
 }
