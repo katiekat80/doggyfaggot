@@ -33,7 +33,7 @@ main a {
 main a img {
     width: 300px;
 }
-.main img {
+.katie {
     width: 90%;
     padding-top: 2%;
 }
@@ -91,5 +91,4 @@ img {
 }
 .eightyEightButton {
     height: 31px;
-    scale: 100px;
 }
