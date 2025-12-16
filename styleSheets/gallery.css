@@ -3,6 +3,7 @@ article {
     padding: 2px;
     margin: 10px auto;
     max-width: 900px;
+    color: black;
 }
 main article img {
     width: 90%;
