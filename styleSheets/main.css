@@ -2,30 +2,28 @@
     font-family: Chicago;
     src: url('../resources/ChicagoFLF.ttf');
 }
-
 html {
     font-family: Chicago;
-    color: rgb(0, 0, 0);
     text-align: center;
-    font-size: x-large;
+    font-size: large;
 }
 body {
     margin: 0;
     background-image: url(../images/backgrounds/catGround.png);
+    color: antiquewhite;
+
 }
 header {
-    padding-top: 5px;
     background-image: url(../images/backgrounds/circuit.png);
-    color: antiquewhite;
+    padding: 10px 0 0;
 }
-header a {
+footer {
+    color: black;
+    bottom: 0;
+}
+
+a {
     color:rgb(255, 255, 0);
-}
-.main {
-    background-image: url(../images/backgrounds/article.png);
-    margin: 0 10%;
-    max-width: 900px;
-    margin: auto;
 }
 main a {
     color: rgb(140, 0, 255);
@@ -33,17 +31,75 @@ main a {
 main a img {
     width: 300px;
 }
+h1 {
+    color: antiquewhite;
+}
+.article {
+    margin: 15px;
+}
+.main {
+    background-image: url(../images/backgrounds/article.png);
+    margin: 0 10%;
+    max-width: 900px;
+    margin:auto;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 1px 3px rgb(75, 255, 90);
+}
 .katie {
     width: 90%;
     padding-top: 2%;
 }
-.article {
-   
-    margin: 15px;
+
+.boxLink {
+    background-color: black;
+    display: inline-table;
+    padding: 10px 10px 0 ;
+    height: 50px;
+    margin: 10px;
+    font-size: medium;
 }
-footer {
-    color: rgb(255, 255, 255);
-    bottom: 0;
+.button {
+    background-color: black;
+    display: inline-table;
+    padding: 10px 10px 0 ;
+    margin: 10px;
+    font-size: medium;
+}
+.button img {
+    width: 88px;
+}
+.boxLink img {
+    width: 200px;
+}
+.video {
+    display: contents;
+}
+iframe {
+    aspect-ratio: 4/3;
+    width: 90%;
+}
+.homeImage {
+    width: 30%;
+}
+main p {
+    margin: auto;
+}
+.blinkie {
+    width: 300px;
+}
+.eightyEightButton {
+    height: 31px;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
+}
+.thought p {
+    margin: 15px auto;
+    max-width: 900px;
+    padding: 30px;
+    border: 3px solid black;
+    border-radius: 100px;
 }
 .boxLink {
     background-color: black;
@@ -77,7 +133,6 @@ iframe {
     width: 30%;
 }
 main p {
-    background-color: antiquewhite;
     margin: auto;
 }
 .blinkie {
@@ -89,4 +144,13 @@ main p {
     image-rendering: crisp-edges;
     image-rendering: pixelated;
     image-rendering: -webkit-optimize-contrast;
+}
+.thought p {
+    margin: 15px auto;
+    max-width: 500px;
+    padding: 30px;
+    border: 3px solid black;
+    border-radius: 100px;
+    background-color: antiquewhite;
+    color: black;
 }
