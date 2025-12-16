@@ -57,6 +57,7 @@ h1 {
     height: 50px;
     margin: 10px;
     font-size: medium;
+    text-shadow: none;
 }
 .button {
     background-color: black;
@@ -64,6 +65,7 @@ h1 {
     padding: 10px 10px 0 ;
     margin: 10px;
     font-size: medium;
+    text-shadow: none;
 }
 .button img {
     width: 88px;
