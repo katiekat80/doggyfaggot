@@ -4,7 +4,7 @@
 }
 @media screen and (min-width: 1020px){
     body {
-        font-size: large;
+        font-sizemedium: medium;
     }
     main {
         margin: 0 10%;
@@ -14,13 +14,13 @@
         padding-top: 1px;
     }
     main article {
-        font-size: large;
+        font-size: medium;
     }
 }
 html {
     font-family: Chicago;
     text-align: center;
-    font-size: x-large;
+    font-size: large;
 }
 body {
     margin: 0;
