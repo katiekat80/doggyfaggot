@@ -13,7 +13,7 @@ var sites = [
 ];
 
 //the name of the ring
-var ringName = 'Animals Who Can Do Math';
+var ringName = 'Math Mammals';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
