@@ -8,9 +8,9 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://doggyfaggot.pet/',
-'https://fucktheinternet.wiki/',
 'https://sapporodoggie.com',
 'https://brianenoboxmuncher.com',
+'https://fucktheinternet.wiki/',
 'https://petdeer.band/',
 ];
 
