@@ -9,7 +9,9 @@
 var sites = [
 'https://doggyfaggot.pet/',
 'https://fucktheinternet.wiki/',
-'https://petdeer.band/'
+'https://sapporodoggie.com',
+'https://brianenoboxmuncher.com',
+'https://petdeer.band/',
 ];
 
 //the name of the ring

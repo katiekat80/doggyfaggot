@@ -8,10 +8,12 @@
 #dogfagring {
   margin: 0 auto;
   padding: 15px; /* creates some space around the widget */
+  background-color: rgb(233, 182, 123);
+  color: darkgoldenrod;
 }
 
 #dogfagring table {
-  background-color: #ffffff; /* makes the background pure white */
+  background-color: #120414; /* makes the background pure white */
   margin: 0 auto; /* centers the widget */
 }
 
