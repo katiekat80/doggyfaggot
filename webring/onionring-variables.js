@@ -11,7 +11,6 @@ var sites = [
 'https://sapporodoggie.com/',
 'https://brianenoboxmuncher.com/',
 'https://fucktheinternet.wiki/',
-'https://petdeer.band/',
 ];
 
 //the name of the ring
