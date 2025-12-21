@@ -2,10 +2,25 @@
     font-family: Chicago;
     src: url('../resources/ChicagoFLF.ttf');
 }
+@media screen and (min-width: 1020px){
+    body {
+        font-size: x-large;
+    }
+    main {
+        margin: 0 10%;
+    }
+    header {
+        background-image: url(../images/backgrounds/circuit.png);
+        padding-top: 1px;
+    }
+    main article {
+        font-size: x-large;
+    }
+}
 html {
     font-family: Chicago;
     text-align: center;
-    font-size: large;
+    font-size: xx-large;
 }
 body {
     margin: 0;
