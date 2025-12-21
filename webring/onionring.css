@@ -10,6 +10,7 @@
   padding: 15px; /* creates some space around the widget */
   background-color: rgba(255, 255, 255, 0);
   color: darkgoldenrod;
+  max-width: 90%;
 }
 
 #dogfagring table {
