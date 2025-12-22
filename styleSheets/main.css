@@ -104,7 +104,6 @@ main p {
     width: 300px;
 }
 marquee img {
-    height: 31px;
     image-rendering: auto;
     image-rendering: crisp-edges;
     image-rendering: pixelated;
@@ -162,4 +161,10 @@ main p {
     border-radius: 100px;
     background-color: antiquewhite;
     color: black;
+}
+.eightyEight img {
+    height: 31px;
+}
+.blinkiemarquee img {
+    height: 30px;
 }
