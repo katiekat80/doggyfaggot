@@ -11,7 +11,7 @@ var sites = [
 'https://sapporodoggie.com/',
 'https://brianenoboxmuncher.com/',
 'https://fucktheinternet.wiki/',
-'humanreceptacles.neocities.org/'
+'https://humanreceptacles.neocities.org/'
 ];
 
 //the name of the ring
