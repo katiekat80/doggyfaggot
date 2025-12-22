@@ -4,7 +4,7 @@
 }
 @media screen and (min-width: 1020px){
     body {
-        font-sizemedium: medium;
+        font-size: large;
     }
     main {
         margin: 0 10%;
@@ -14,13 +14,13 @@
         padding-top: 1px;
     }
     main article {
-        font-size: medium;
+        font-size: large;
     }
 }
 html {
     font-family: Chicago;
     text-align: center;
-    font-size: large;
+    font-size: x-large;
 }
 body {
     margin: 0;
@@ -103,7 +103,7 @@ main p {
 .blinkie {
     width: 300px;
 }
-.eightyEightButton {
+marquee img {
     height: 31px;
     image-rendering: auto;
     image-rendering: crisp-edges;
