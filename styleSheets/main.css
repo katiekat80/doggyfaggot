@@ -154,13 +154,6 @@ main p {
 .blinkie {
     width: 300px;
 }
-.eightyEightButton {
-    height: 31px;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -webkit-optimize-contrast;
-}
 .thought p {
     margin: 15px auto;
     max-width: 500px;
