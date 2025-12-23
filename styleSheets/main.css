@@ -2,157 +2,25 @@
     font-family: Chicago;
     src: url('../resources/ChicagoFLF.ttf');
 }
-@media screen and (min-width: 1020px){
-    body {
-        font-size: large;
-    }
-    main {
-        margin: 0 10%;
-    }
-    header {
-        background-image: url(../images/backgrounds/circuit.png);
-        padding-top: 1px;
-    }
-    main article {
-        font-size: large;
-    }
-}
 html {
     font-family: Chicago;
     text-align: center;
-    font-size: x-large;
+    font-size: large;
 }
-body {
-    margin: 0;
-    background-image: url(../images/backgrounds/catGround.png);
-    color: antiquewhite;
 
-}
 header {
     background-image: url(../images/backgrounds/circuit.png);
-    padding: 10px 0 0;
-}
-footer {
-    color: black;
-    bottom: 0;
-}
-
-a {
-    color:rgb(255, 255, 0);
-}
-main a {
-    color: rgb(140, 0, 255);
-}
-main a img {
-    width: 300px;
-}
-h1 {
+    padding-top: 1px;
     color: antiquewhite;
 }
-.article {
-    margin: 15px;
-}
-.main {
+
+.siteBody {
     background-image: url(../images/backgrounds/article.png);
-    margin: 0 10%;
+    margin-bottom: 5px;
     max-width: 900px;
-    margin:auto;
-    color: rgb(0, 0, 0);
-}
-.katie {
-    width: 90%;
-    padding-top: 2%;
+    margin: auto;
 }
 
-.boxLink {
-    background-color: black;
-    display: inline-table;
-    padding: 10px 10px 0 ;
-    height: 50px;
-    margin: 10px;
-    font-size: medium;
-    text-shadow: none;
-}
-.button {
-    background-color: black;
-    display: inline-table;
-    padding: 10px 10px 0 ;
-    margin: 10px;
-    font-size: medium;
-    text-shadow: none;
-}
-.button img {
-    width: 88px;
-}
-.boxLink img {
-    width: 200px;
-}
-.video {
-    display: contents;
-}
-iframe {
-    aspect-ratio: 4/3;
-    width: 90%;
-}
-.homeImage {
-    width: 30%;
-}
-main p {
-    margin: auto;
-}
-.blinkie {
-    width: 300px;
-}
-marquee img {
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -webkit-optimize-contrast;
-}
-.thought p {
-    margin: 15px auto;
-    max-width: 900px;
-    padding: 30px;
-    border: 3px solid black;
-    border-radius: 100px;
-}
-.boxLink {
-    background-color: black;
-    display: inline-table;
-    padding: 10px 10px 0 ;
-    height: 50px;
-    margin: 10px;
-    font-size: medium;
-}
-.button {
-    background-color: black;
-    display: inline-table;
-    padding: 10px 10px 0 ;
-    margin: 10px;
-    font-size: medium;
-}
-.button img {
-    width: 88px;
-}
-.boxLink img {
-    width: 200px;
-}
-.video {
-    display: contents;
-}
-iframe {
-    aspect-ratio: 4/3;
-    width: 90%;
-}
-.homeImage {
-    width: 30%;
-}
-main p {
-    margin: auto;
-}
-.blinkie {
-    width: 300px;
-}
 .thought p {
     margin: 15px auto;
     max-width: 500px;
@@ -162,9 +30,76 @@ main p {
     background-color: antiquewhite;
     color: black;
 }
-.eightyEight img {
+
+/* navigation bar */
+.navbar a {
+    color: yellow;
+}
+
+.extLink {
+    background-color: black;
+    display: inline-table;
+    padding: 10px 10px 0 ;
+    margin: 10px;
+    font-size: medium;
+    max-width: 40%;
+}
+
+/* gallery seelct custom width */
+#gallerySelect {
+    width: fit-content;
+}
+/* display as table */
+#gallerySelect nav {
+    display: inline-table;
+    padding: 0 10pt;
+}
+
+.video {
+    display: contents;
+}
+iframe {
+    aspect-ratio: 4/3;
+    width: 90%;
+}
+.project {
+    max-width: 900px;
+    padding: 1px;
+    margin: 5px auto ;
+    background-image: url(../images/backgrounds/article.png);
+}
+#counter {
+    background-color: antiquewhite;
+    margin: 10px auto ;
+    width: fit-content;
+    padding: 0 15px;
+    font-size: small;
+    border: 3px double rgb(65, 16, 16);
+}
+
+/* images */
+.largeImg {
+    width: 90%;
+}
+.smallImg {
+    width: 30%;
+}
+.button img {
     height: 31px;
 }
-.blinkiemarquee img {
+
+.blinkie img {
     height: 30px;
+}
+marquee img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+/* set page border to nothing and display page background*/
+body {
+    background-image: url(../images/backgrounds/catGround.png);
+    margin: auto;
 }

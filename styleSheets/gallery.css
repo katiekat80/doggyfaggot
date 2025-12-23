@@ -12,3 +12,6 @@ main a {
     padding: 5px;
     background-color: antiquewhite;
 }
+header a {
+    color: yellow;
+}
