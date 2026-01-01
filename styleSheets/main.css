@@ -54,6 +54,10 @@ header {
     display: inline-table;
     padding: 0 10pt;
 }
+#gallerySelect nav p {
+    width: 110px;
+    font-size: small;
+}
 
 .video {
     display: contents;
