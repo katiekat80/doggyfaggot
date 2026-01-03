@@ -58,7 +58,13 @@ header {
     width: 110px;
     font-size: small;
 }
-
+.overlay {
+    height: 0;
+    
+}
+main img {
+    border-top: 15px solid rgb(240, 250, 253) ;
+}
 .video {
     display: contents;
 }
