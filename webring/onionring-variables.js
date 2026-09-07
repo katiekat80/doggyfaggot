@@ -7,7 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://doggyfaggot.pet/',
+'https://doggydyke.pet/',
 'https://sapporodoggie.com/',
 'https://brianenoboxmuncher.com/',
 'https://fucktheinternet.wiki/',
@@ -25,7 +25,7 @@ var ringID = 'dogfagring';
 //should the widget include a link to an index page?
 var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'https://doggyfaggot.pet/ring.html';
+var indexPage = 'https://doggydyke.pet/ring.html';
 
 //should the widget include a random button?
 var useRandom = true;
